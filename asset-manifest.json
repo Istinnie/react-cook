@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-cook/static/css/main.073c9b0a.css",
-    "main.js": "/react-cook/static/js/main.a38d8f3c.js",
-    "static/js/787.d0d2bae4.chunk.js": "/react-cook/static/js/787.d0d2bae4.chunk.js",
-    "static/media/logo.svg": "/react-cook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-cook/static/css/main.a6693990.css",
+    "main.js": "/react-cook/static/js/main.51d1d8ae.js",
     "index.html": "/react-cook/index.html",
-    "main.073c9b0a.css.map": "/react-cook/static/css/main.073c9b0a.css.map",
-    "main.a38d8f3c.js.map": "/react-cook/static/js/main.a38d8f3c.js.map",
-    "787.d0d2bae4.chunk.js.map": "/react-cook/static/js/787.d0d2bae4.chunk.js.map"
+    "main.a6693990.css.map": "/react-cook/static/css/main.a6693990.css.map",
+    "main.51d1d8ae.js.map": "/react-cook/static/js/main.51d1d8ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a38d8f3c.js"
+    "static/css/main.a6693990.css",
+    "static/js/main.51d1d8ae.js"
   ]
 }
